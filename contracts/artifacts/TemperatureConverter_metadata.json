@@ -1,0 +1,84 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "int256",
+						"name": "fahrenheit",
+						"type": "int256"
+					},
+					{
+						"indexed": false,
+						"internalType": "int256",
+						"name": "celsius",
+						"type": "int256"
+					}
+				],
+				"name": "ConversionResult",
+				"type": "event"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "fahrenheit",
+						"type": "int256"
+					}
+				],
+				"name": "fahrenheitToCelsius",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/second program.sol": "TemperatureConverter"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/second program.sol": {
+			"keccak256": "0x1b4a5b46ef8a0459828a98a966587d6c7ccf2ec4d6626f49f8881e0ffe8b863f",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://81621bb3dd2efc133a0657d2870738d6d5e805e4a01b1ea37bf60ec3d86ebd0f",
+				"dweb:/ipfs/QmNTiXzumyHsNYs1JCn1MCWn75SVQM4CMoaEWBeaoM422h"
+			]
+		}
+	},
+	"version": 1
+}

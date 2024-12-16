@@ -1,0 +1,84 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "int256",
+						"name": "celi",
+						"type": "int256"
+					},
+					{
+						"indexed": false,
+						"internalType": "int256",
+						"name": "farh",
+						"type": "int256"
+					}
+				],
+				"name": "result",
+				"type": "event"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "farh",
+						"type": "int256"
+					}
+				],
+				"name": "farhaheit",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/second program.sol": "temparature"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/second program.sol": {
+			"keccak256": "0xd4f10f778f754e161619091022666cc73115e62c821e0d6bac8a58201779ec0b",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://b8d19acad3188f9d8c0743482254107376ad401f685cdcfc1dd3f399b72d1053",
+				"dweb:/ipfs/QmNhsBXT5Wym66orQSmjczcqAKq9iNyTckAsw2TENGDZyR"
+			]
+		}
+	},
+	"version": 1
+}

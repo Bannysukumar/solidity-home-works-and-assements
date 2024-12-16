@@ -1,0 +1,85 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_usdAmount",
+						"type": "uint256"
+					}
+				],
+				"name": "convertUSDToINR",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "convertedAmount",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getConvertedAmount",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/currency coverter.sol": "CurrencyConverter"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/currency coverter.sol": {
+			"keccak256": "0xe59ca572705fe8e8327c12c66c83494715c977f4ce42ca9e1590232c22669ec6",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://7923a00bab204dcf803bcef44f1adec8e51da06598aba98d7216b97266ce75ec",
+				"dweb:/ipfs/QmNaNnx6migyvKrjpDvetd7jKc1W4kKce4BjyHsj2p5qGu"
+			]
+		}
+	},
+	"version": 1
+}

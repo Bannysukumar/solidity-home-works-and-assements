@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Standard math utilities missing in the Solidity language.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/THANIVISH TOKEN_flattened.sol": "Math"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/THANIVISH TOKEN_flattened.sol": {
+			"keccak256": "0xf178c3a5ba6b21ee0578a88ddb5ca1ef0f46e083d5ef8a860c92c99cd4116980",
+			"urls": [
+				"bzz-raw://4bf840fa12ed050facf5cb2ec72cb70f432fda613fcf7e3bae3e2b5126a31806",
+				"dweb:/ipfs/QmY1Dx2xZERFmR9J8pUqRAXxpYcf7GVoFp4yt6BVN3YE8x"
+			]
+		}
+	},
+	"version": 1
+}

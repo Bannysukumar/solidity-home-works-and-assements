@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "celicius",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/second program.sol": "fahrenheit"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/second program.sol": {
+			"keccak256": "0x834ed2dd07a5e06f4c3059105f998903f809051b5a52b0bcdc6314d8b67072e4",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://d9c330689d3922aeed858cd2cd58814901c96a2b6f837222780e899fdaf55f44",
+				"dweb:/ipfs/QmfZTAJmKAdvhBw3gh6L33nL6mw2ZJh3Yb95zZ5vpeGknA"
+			]
+		}
+	},
+	"version": 1
+}

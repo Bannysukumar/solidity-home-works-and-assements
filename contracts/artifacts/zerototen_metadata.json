@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "ZerotoTen",
+				"outputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "",
+						"type": "uint256[]"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/write number 0 to10.sol": "zerototen"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/write number 0 to10.sol": {
+			"keccak256": "0x3778d96a16351755e9b927e79fb0fa19a2301ffe52d7a116b4a7e17b78a0f939",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://95803e500148d6573358d97d38a82ceabf1277a4ab6c87b28803184de8b5f3cc",
+				"dweb:/ipfs/QmWVCpySAUqVCBaA9f2yrCSMdTwB9ig5nEdmCyXkc71tsA"
+			]
+		}
+	},
+	"version": 1
+}

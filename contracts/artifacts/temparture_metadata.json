@@ -1,0 +1,141 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "int256",
+						"name": "celi",
+						"type": "int256"
+					},
+					{
+						"indexed": false,
+						"internalType": "int256",
+						"name": "farh",
+						"type": "int256"
+					}
+				],
+				"name": "result",
+				"type": "event"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "celi",
+						"type": "int256"
+					}
+				],
+				"name": "celitofahr",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "celi",
+						"type": "uint256"
+					}
+				],
+				"name": "celitofahr2",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "int256",
+						"name": "farh",
+						"type": "int256"
+					}
+				],
+				"name": "farhatoceli",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "farh",
+						"type": "uint256"
+					}
+				],
+				"name": "farhatoceli1",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/temparature in int and uint.sol": "temparture"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/temparature in int and uint.sol": {
+			"keccak256": "0xbc67db16a1e6ddd8b17dd4eae954612199952c1b028c024c6a069a52fde39f89",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://6c42e713286703b3f246b43d73c8d7c4051082cb8f6cd718358e893d4f6a6b5e",
+				"dweb:/ipfs/QmbWNAodHge2ogCmkmVA8gbNeBy1i1YxfF2iPath224d2C"
+			]
+		}
+	},
+	"version": 1
+}
