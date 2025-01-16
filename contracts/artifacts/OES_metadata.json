@@ -480,7 +480,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/OES token.sol": "KAIRAA"
+			"contracts/OES token.sol": "OES"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -495,11 +495,11 @@
 	},
 	"sources": {
 		"contracts/OES token.sol": {
-			"keccak256": "0xa6a0bfa5e0eee2b5ac2807990c7bca682caff4ac133bc063f43d1c159306e245",
+			"keccak256": "0x1c3a6c0b3f7816eb6eef3243179bceb0ab2ea7561d5c9bfddc1595488c839e84",
 			"license": "Unlicense",
 			"urls": [
-				"bzz-raw://7682efc4b26786e1958d42eac54c06f61377b3b3068893e216a180780d8f041c",
-				"dweb:/ipfs/QmQt6uchmmYo367WzFW2xGoNt1it3SNLspe2GWL2E4fsbd"
+				"bzz-raw://5241b746813ac5c575a763fb2f6d3034c05279715c1dbe307e3dfc24a8b46113",
+				"dweb:/ipfs/QmZNT3RtuUzzxg7vJGFj5S42TEG5tSj4YBJFSkXzHnQ9ec"
 			]
 		}
 	},
