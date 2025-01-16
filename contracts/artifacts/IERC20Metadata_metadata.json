@@ -241,7 +241,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/OES.SOL": "IERC20Metadata"
+			"contracts/PIN TOKEN.sol": "IERC20Metadata"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -255,12 +255,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/OES.SOL": {
-			"keccak256": "0x312874ef4c377f4bb75538de209993ca7fe0ba1b9ea7d30c2c44b49b963bfa98",
+		"contracts/PIN TOKEN.sol": {
+			"keccak256": "0xacd3a72e4fe76132bc84b8ea48c4cc6527c517a516b002d27c2770e300a2d866",
 			"license": "Unlicense",
 			"urls": [
-				"bzz-raw://77b15e9f4fd967ae85e8bc98d1151f8b6d9b761f288797127a9e9178f6108116",
-				"dweb:/ipfs/QmS9ozFcZXgN9QHFKN7RyNXdqgAvLFaQjVaTMtCoK5HDtH"
+				"bzz-raw://957bd53fd4c262ac22e7747a863678d186de56d0a658e642826b0da133456f1f",
+				"dweb:/ipfs/QmaMoV14ecmaamw69ZyXbzEDaWKCNG3mGEt2M3K1M2ZUux"
 			]
 		}
 	},
